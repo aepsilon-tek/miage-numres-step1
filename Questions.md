@@ -16,16 +16,16 @@ Réponse: La RSS utilisée par l'API SpringBoot est 325660 KB, soit environ 325 
 Réponse: 2.786 seconds
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse: 694
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse:La RSS utilisée par l'API Quarkus en mode JVM est 108096 KB, soit environ 108 MB
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: 1.084s
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: La RSS utilisée par l'API Quarkus en mode natif est 38924 KB, soit environ 39 MB.
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: 0.020s
