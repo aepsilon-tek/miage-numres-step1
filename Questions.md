@@ -39,4 +39,6 @@ Réponse: Le temps de démarrage de l'api Quarkus en mode JVM est de 0.894s
 Réponse: En mode natif, la valeur de la RSS utilisée par l'api quarkus est de 2300 KB soit environ 2.25 MB (division par 1024)
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse: Le temps de démarrage de l'api Quarkus en mode natif est de 03:04 min (très long...)
+Réponse: Le temps de démarrage de l'api Quarkus en mode natif est de 0.021s
+
+PS : Question 11 il faut lancer le fichier runner de target : `./api-quarkus-1.0.0-SNAPSHOT-runner`
