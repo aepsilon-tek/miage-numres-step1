@@ -15,22 +15,22 @@ Réponse:18.14MB
 Réponse:resident set size, the portion of memory (measured in kilobytes) occupied by a process that is held in main memory (RAM).
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse: 317784 Ko
+Réponse: 310,33 MB
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse: 2.695s
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse:694 KB
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse:104.55MB
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse:1.011s
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse:38.2 MB
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse:0.020s
