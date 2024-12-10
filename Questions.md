@@ -15,16 +15,19 @@ Limitation des capacités locales (par exemple, exécution de tâches gourmandes
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
+323652
 
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:
+La RSS (Resident Set Size) correspond à la quantité de mémoire vive utilisée par un processus en cours d'exécution. Elle représente la mémoire physique occupée par le processus, sans inclure la mémoire virtuelle paginée.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
+La RSS utilisée par le processus Spring Boot est indiquée comme 323652 Ko (soit environ 317 Mo).
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse:
-
+2.818 seconde
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
 
