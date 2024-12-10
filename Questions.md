@@ -5,16 +5,15 @@ Réponse: Gitpod propose des environnements de développement configurés automa
 Réponse: Gitpod dépend d'une connexion Internet stable, ce qui peut poser problème en cas d'instabilité. Les offres gratuites sont limitées en fonctionnalités et en temps d'utilisation. De plus, les performances peuvent être insuffisantes pour des projets complexes, et certaines fonctionnalités avancées nécessitent un apprentissage supplémentaire.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
-
+Réponse:18.14MB
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: La RSS (Resident Set Size) est la quantité de mémoire physique utilisée par un processus en cours d'exécution. Elle est mesurée en kilooctets (KB).
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse: La RSS utilisée par l'API SpringBoot est 325660 KB, soit environ 325 MB.
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: 2.786 seconds
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
