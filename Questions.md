@@ -5,16 +5,16 @@ Réponse: Gitpod offre un environnement de développement prêt à l'emploi dans
 Réponse: Gitpod peut être limité par la dépendance à une connexion Internet stable et rapide, rendant son utilisation difficile hors ligne. De plus, les ressources disponibles dans les plans gratuits ou moins chers peuvent être insuffisantes pour des projets exigeants.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
+Réponse: 18.14MB
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: RSS is the resident set size and it used to show how much memory is allocated to that process and is in RAM.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse: 313564 et c'est en kilo-octet
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: 2.766 seconds
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
