@@ -1,14 +1,14 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
-Réponse:
+Réponse: de travailler à distance et pas sur la machine directement mais plutot à distance
 
 # Q2 : Quels sont les défauts de Gitpod ?
-Réponse:
+Réponse: complexité de l'installation et de la configuration
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
+Réponse: 
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: 
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
