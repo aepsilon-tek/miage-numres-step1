@@ -20,16 +20,22 @@ Absence de version SaaS : À partir d'avril 2025, Gitpod ne proposera plus de ve
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
+18,14 MB
+
 
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:
 
+La Resident Set Size (RSS) désigne la quantité de mémoire vive (RAM) occupée par un processus en cours d'exécution, y compris le code, les données, et les bibliothèques partagées chargées en mémoire. Contrairement à la mémoire virtuelle totale utilisée par un processus, RSS reflète uniquement la mémoire réellement présente en RAM, ce qui en fait un indicateur utile pour évaluer l'impact d'un processus sur la mémoire physique d'un système.
+
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
 
+318924 KB
+
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse:
-
+2.813 seconds
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
 
