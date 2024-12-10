@@ -1,9 +1,11 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
 Réponse:
-
+ c'est qu'il peut être utilisé avec tous les logiciels de gestion de projet GIT, que ce soit Gitlab, Github ou encore Bitbucket. L'EDI est aussi compatible avec des outils open source très utilisés tels que VS Code ou encore Docker. Chaque développeur peut donc facilement être à l'aise sur Gitpod.
 # Q2 : Quels sont les défauts de Gitpod ?
 Réponse:
-
+Limites des plans gratuits
+Les minutes gratuites par mois sont limitées, ce qui peut être insuffisant pour les développeurs actifs ou les projets plus importants.
+Certains types d'instances (comme celles avec beaucoup de ressources) ne sont disponibles qu'avec des abonnements payants.
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
 
