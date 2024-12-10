@@ -1,8 +1,8 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
-Réponse:
+Réponse: On peut travailler depuis n'importe quel navigateur, et l'environnement de travail se setup automatiquement
 
 # Q2 : Quels sont les défauts de Gitpod ?
-Réponse:
+Réponse: Il faut une bonne connexion
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
