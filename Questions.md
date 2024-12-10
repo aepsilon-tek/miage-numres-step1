@@ -9,16 +9,16 @@ Réponse:
     -Dépendance à une configuration propriétaire
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
+Réponse:18.14MB
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse:resident set size, the portion of memory (measured in kilobytes) occupied by a process that is held in main memory (RAM).
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse: 317784 Ko
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: 2.695s
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
