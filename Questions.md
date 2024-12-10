@@ -9,7 +9,7 @@ Réponse:
 -Besoin d'internet pour fonctionner.
 -Peut être cher pour une longue utilisation.
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:313704 ko
+Réponse:318000 ko
 
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:La RSS (Resident Set Size) est la quantité de mémoire physique réellement utilisée en RAM par un processus, excluant la mémoire paginée sur disque.
@@ -21,16 +21,16 @@ Réponse:2336  kilooctets
 Réponse: Le temps de démarrage indiqué dans les logs est 2,405 secondes. 
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse:: La taille du fichier quarkus-run.jar est 694 octets.
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse:  107908 kB (kilooctets),
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: Le temps de démarrage de l'API Quarkus en mode JVM est 0,814 secondes
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: La valeur de la RSS utilisée par l'API Quarkus en mode natif est 38976 kB (kilooctets)
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: Le temps de démarrage de l'API Quarkus en mode natif est 0,019 secondes
