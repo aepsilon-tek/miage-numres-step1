@@ -16,7 +16,7 @@ Limitation des capacités locales (par exemple, exécution de tâches gourmandes
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
-325308
+19024762 Ko soit 18 Mo
 
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:
@@ -32,15 +32,19 @@ Started ApiSpringbootApplication in 2.398 seconds
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
+694Ko
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
 Réponse:
+107660 Ko (soit environ 107 Mo).
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
 Réponse:
+[INFO] Total time:  7.261 s
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
 Réponse:
-
+39212 Ko 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
 Réponse:
+started in 0.018s.
