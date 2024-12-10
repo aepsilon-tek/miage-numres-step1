@@ -1,8 +1,20 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
 Réponse:
 
+- Environnements de développement prêts à l'emploi : Gitpod permet de créer des environnements de développement configurés automatiquement à partir de dépôts GitLab, GitHub ou Bitbucket, facilitant ainsi le démarrage rapide des projets sans configuration manuelle. 
+
+- Accès depuis n'importe quel appareil : Grace à sa solution cloud, Gitpod offre la flexibilité de coder depuis n'importe quel appareil doté d'un navigateur, éliminant la dépendance à une machine. 
+
+- Collaboration simplifiée : Gitpod facilite le partage d'environnements de développement et la collaboration en temps réel entre les membres d'une équipe, améliorant ainsi la coordination et l'efficacité. 
+
+- Intégration avec des outils populaires : Gitpod s'intègre avec des outils open source largement utilisés tels que VS Code et Docker, offrant une expérience familière aux développeurs. 
+
 # Q2 : Quels sont les défauts de Gitpod ?
 Réponse:
+
+- Connexion Internet obligatoire : Sans Internet, pas de Gitpod. Ça peut être un problème si la connexion est mauvaise ou inexistante.
+
+- Pas toujours facile au début : Il faut un peu de temps pour comprendre toutes les fonctionnalités, surtout si on découvre ce genre d'outil.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
