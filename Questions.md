@@ -1,8 +1,17 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
-Réponse:
+Réponse: 
+- Prêt en un clic : Pas besoin de configurer ton environnement, tout est prêt direct depuis ton repo.
+- Accessible partout : Tu peux coder depuis n’importe quel appareil avec un navigateur.
+- Travail en équipe facile : Partage ton environnement et collabore en temps réel.
+- Automatisation : Fini les tâches répétitives, tout se lance tout seul (merci les prebuilds).
+- Intégré à des outils connus : Compatible avec GitHub, GitLab, VS Code, etc...
 
 # Q2 : Quels sont les défauts de Gitpod ?
 Réponse:
+- Internet obligatoire : Sans connexion, impossible de travailler.
+- Pas toujours adapté : Certaines tâches spécifiques demandent des ressources locales.
+- Apprentissage : Peut être un peu compliqué au début si t’es pas habitué au cloud.
+- Payant pour certaines options : Les ressources ou fonctions avancées peuvent coûter cher.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
