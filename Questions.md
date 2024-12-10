@@ -1,8 +1,8 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
-Réponse:
+Réponse: Gitpod offre un environnement de développement en ligne sécurisé et personnalisable, permettant aux développeurs de créer des espaces de travail préconfigurés et automatisés, avec des intégrations avec les outils de gestion de projet Git et des extensions VSCode, pour accélérer et sécuriser le développement de logiciels.
 
 # Q2 : Quels sont les défauts de Gitpod ?
-Réponse:
+Réponse: Je pense que le point négatif est que nous avons un environnement qui n'est pas vraiment personnalisé, c'est du standard (du tout cuit) créé par l'entreprise.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
