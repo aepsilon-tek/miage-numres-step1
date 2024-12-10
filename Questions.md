@@ -11,13 +11,13 @@ Réponse: La tailel du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` est de 32
 Réponse: La RSS (Resident Set Size) est une mesure de la mémoire physique utilisée par un processus. Elle représente la quantité de mémoire qui est actuellement en RAM et qui est attribuée à un processus spécifique. La RSS est une mesure importante pour évaluer l'utilisation de la mémoire par un processus et pour diagnostiquer les problèmes de performances liés à la mémoire.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse: La valeur de la RSS utilisée par l'api SpringBoot est de 321428 KB.
+Réponse: La valeur de la RSS utilisée par l'api SpringBoot est de 2268 KB.
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse: Le temps de démarrage de l'api SpringBoot est de 2 secondes.
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse: La taille du fichier jar `quarkus-run.jar` est de 107316 KB.
+Réponse: La taille du fichier jar `quarkus-run.jar` est de 2252 KB.
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
 Réponse: La valeur de la RSS utilisée par l'api Quarkus en mode JVM est de 107316 KB.
