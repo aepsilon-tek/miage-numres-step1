@@ -26,7 +26,7 @@ Réponse:La valeur de la RSS utilisée par l'api Quarkus en mode JVM est de 1073
 Réponse:Le temps de démarrage de l'api Quarkus en mode JVM est de 0.877 seconde
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse:La valeur de la RSS utilisée par l'api Quarkus en mode natif est de 45256 KB
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse:Le temps de démarrage de l'api Quarkus en mode natif est de 0.0018 seconde
