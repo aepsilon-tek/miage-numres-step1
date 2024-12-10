@@ -8,16 +8,16 @@ Les minutes gratuites par mois sont limitées, ce qui peut être insuffisant pou
 Certains types d'instances (comme celles avec beaucoup de ressources) ne sont disponibles qu'avec des abonnements payants.
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
-
+18.14MB
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:
-
+RSS : RSS is the resident set size and it used to show how much memory is allocated to that process and is in RAM.
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
-
+317784 KO
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse:
-
+2.558
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
 
