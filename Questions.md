@@ -17,16 +17,17 @@ Coût pour des usages avancés : Les fonctionnalités avancées nécessitent des
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
-
+La taille du fichier jar est de [taille exacte, exemple : 25 MB].
 # Q4 : Qu'est ce que  la RSS ?
 Réponse:
-
+Réponse: La RSS (Resident Set Size) représente la quantité de mémoire physique utilisée par un processus en RAM.
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
+La valeur de la RSS utilisée par l'API SpringBoot est de [valeur exacte, exemple : 200 MB].
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse:
-
+Le temps de démarrage de l'API SpringBoot est de [valeur exacte, exemple : 3.5 secondes].
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
 
