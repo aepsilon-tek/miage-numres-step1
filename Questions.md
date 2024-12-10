@@ -1,8 +1,10 @@
 # Q1 : Quels sont  les avantages de Gitpod ?
 Réponse:
+On a un environnement déjà prêts est accessible partout, utilisation des ressources du Cloud préservant les ressources en local
 
 # Q2 : Quels sont les défauts de Gitpod ?
 Réponse:
+Dépendant du réseau internet et du cloud
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
 Réponse:
