@@ -31,22 +31,23 @@ La Resident Set Size (RSS) désigne la quantité de mémoire vive (RAM) occupée
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
 Réponse:
 
-318924 KB
+318924 KO
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse:
 2.813 seconds
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
-
+694 MB
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
 Réponse:
-
+117308 KO
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
 Réponse:
-
+0.948s
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
 Réponse:
-
+38968 ko
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
 Réponse:
+0.021s
