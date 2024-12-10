@@ -5,16 +5,16 @@ Réponse:Il permet d'obtenir des environnements de développement entièrement c
 Réponse: Capacités limitées de l'IDE.
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
+Réponse: 18,14 Mb
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: RSS is the Resident Set Size and is used to show how much memory is allocated to that process and is in RAM
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse: 318972 et c'est en kilo-octets
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: 2.636 ms
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
