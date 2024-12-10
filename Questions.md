@@ -16,13 +16,13 @@ Réponse:
 Réponse: 18.14MB
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: RSS (Resident Set Size) représente la quantité de mémoire physique utilisée par un processus en RAM, excluant les pages échangées sur le disque.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse: La RSS utilisée est 313320 KB.
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: Started ApiSpringbootApplication in 3.111 seconds (process running for 3.65)
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
