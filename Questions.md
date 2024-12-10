@@ -43,4 +43,4 @@ Réponse:
 38321 KB
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
 Réponse:
-3:42 min
+0.022 sec
