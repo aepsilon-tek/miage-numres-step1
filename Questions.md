@@ -26,7 +26,7 @@ Réponse: La taille de la RSS est de 2248 kiloctets pour l'api quarkus.
 Réponse: Le temps est de 0.774 seconde => plus de 2 fois plus rapide que le springboot.
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: La valeur est de 39120 kiloctets en mode natif pour Quarkus.
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: Le temps de démarrage est de 0.017 secondes.
