@@ -25,16 +25,16 @@ Réponse: La RSS utilisée est 313320 KB.
 Réponse: Started ApiSpringbootApplication in 3.111 seconds (process running for 3.65)
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse: 694 bytes
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse:La RSS utilisée est 109148 KB.
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: api-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.16.3) started in 1.513s. Listening on: http://0.0.0.0:8080
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: 2220 KB
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: 0.025
