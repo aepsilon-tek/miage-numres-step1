@@ -20,22 +20,22 @@ Réponse: Le fichier est de 19.71 Mo.
 Réponse: C'est la mémoire consommée par un processus.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse: 166540 KB.
+Réponse: 166540 Ko.
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
 Réponse: Le temps de démarrage est de 3.404 secondes.
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse: 
+Réponse: La taille du fichier est de 3ko.
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse: 104472 Ko.
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: 1.005secondes.
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: 39936 Ko.
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: 0.017secondes.
