@@ -17,16 +17,18 @@ Réponse: 2304
 Réponse: 3.808s
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse: 662
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse: 2304
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: 0.942s
+
+
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: 39808
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: 0.017s.
