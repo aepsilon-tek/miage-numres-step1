@@ -209,7 +209,7 @@ wrapperJarPath="$MAVEN_PROJECTBASEDIR/.mvn/wrapper/maven-wrapper.jar"
 if [ -r "$wrapperJarPath" ]; then
   log "Found $wrapperJarPath"
 else
-  log "Couldn't find $wrapperJarPath, downloading it ..."
+  log "Couldn't find $wrapperJarPath, downloading it ..."cl
 
   if [ -n "$MVNW_REPOURL" ]; then
     wrapperUrl="$MVNW_REPOURL/org/apache/maven/wrapper/maven-wrapper/3.3.2/maven-wrapper-3.3.2.jar"
