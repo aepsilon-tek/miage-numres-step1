@@ -26,7 +26,7 @@ Réponse: 166540 KB.
 Réponse: Le temps de démarrage est de 3.404 secondes.
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse: 
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
 Réponse:
